@@ -6,6 +6,28 @@ Simple GUI
 
 <img width="411" alt="image" src="https://github.com/user-attachments/assets/526abd1e-bea0-45ba-bed8-dbdce585720b">
 
+-> commond 
+1. what is your name 
+2. hello  or hye or hay
+3. how are you
+4. thanku or thank
+5. good morning
+6. time now
+7. shutdown
+8. play music or song 
+9. open google or google 
+10. youtube or  open youtube
+11. weather
+12. music from my laptop
+13. whatsapp
+14. interbshala
+15. Vs-Code
+16. Github
+17. Linkedin
+18. Email
+19. facebook
+
+
 Use Voice
 
 <img width="409" alt="image" src="https://github.com/user-attachments/assets/c1287583-43b2-4d18-99f2-7756f071231d">
