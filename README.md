@@ -1,4 +1,7 @@
 AI DESKTOP VIRTUAL ASSISTANT using Python ,APIs and Tkinter 
+HACKATHON 2K24 - Organized by BTECH CEIT Department , SGVU
+          
+          This Is My HACKATHON Project
 
 The CodeX AI Assistant [ Simplifying Life , Amplifying Potential ]
 
