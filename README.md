@@ -10,6 +10,9 @@ Simple GUI
 
 <img width="411" alt="image" src="https://github.com/user-attachments/assets/526abd1e-bea0-45ba-bed8-dbdce585720b">
 
+An AI-desktop virtual assistant is a program that can perform tasks and provide information to users through voice commands or keyboard input. 
+
+It can be used to perform a variety of tasks, such as :-
 -> commond 
 1. what is your name 
 2. hello  or hye or hay
